@@ -22,7 +22,7 @@ public class Sound
         samples(i) = limit;
         count++;
       }
-      if(samples(i) < ((-1)*(limit)){
+      if(samples(i) < ((-1)*(limit))){
         samples(i) = (-1)*(limit);
         count++;
       }
